@@ -1,6 +1,6 @@
-# Data Quality Assessment and Preprocessing
+# Lab 4: Data Quality Assessment and Preprocessing
 
-This project performs data quality assessment and preprocessing on the `vehicles.csv` dataset using Python and Jupyter Notebook.
+Performing data quality assessment and preprocessing on the `vehicles.csv` dataset using Python and Jupyter Notebook.
 
 ## Objectives
 
@@ -17,7 +17,7 @@ This project performs data quality assessment and preprocessing on the `vehicles
 
 ## Files
 
-- Data_Quality_Assessment_Preprocessing.ipynb  
+- notebook.ipynb  
   Jupyter Notebook containing all preprocessing steps
 
 - vehicles.csv  
